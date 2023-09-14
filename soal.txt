@@ -1,0 +1,18 @@
+Nama:Andrea Tri Kurniawan
+NPM:19312101
+Kode Soal:A
+
+1. Sistem apa yang anda kembangkan?
+Jawab:sistem pemesanan elektronik
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:keamanan data, stok barang
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:meningkatkan fitur keamanan data, selalu mengecek stok barang yg sudah ada
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:dapat meingkatkan fitur keamanan data lebih ketat
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:keamanan data
